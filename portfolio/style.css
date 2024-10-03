@@ -1,0 +1,33 @@
+
+header{
+    height: 60px;
+    background-color: #806BDC;
+    text-align: center;
+}
+
+.nav{
+    padding-top: 18px;
+}
+#title{
+    color: white;
+    font-size: 25px;
+}
+
+#nav:hover{
+transform: translateX(-20px);
+}
+
+.intro h1{
+    text-align: center;
+}
+.intro p{
+    text-align: center;
+    background-color: rgba(202, 148, 233, 0.3);
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.project{
+    text-align: center;
+    background-color: rgba(202, 148, 233, 0.3);
+}
